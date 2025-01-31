@@ -2,7 +2,7 @@
 Plugin PhantomLoot - The Phantoms steal!
 
 PhantomLoot [Es/Spanish]
-PhantomLoot hace que los phantoms puedan robar items con opciones configurables:
+- > PhantomLoot hace que los phantoms puedan robar items con opciones configurables:
 
 - Guardar el item anterior al morir el phantom (guardar-item-anterior): true/false
 En caso de que sea "true" si el phantom te roba 2 o mas items te los dropeará al morir.
